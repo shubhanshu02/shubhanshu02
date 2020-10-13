@@ -5,7 +5,6 @@ My name is Shubhanshu Saxena. I'm a developer exploring different technical aspe
 ##### Technologies I have used
 <img src="https://github.com/github/explore/raw/master/topics/flutter/flutter.png" width="40" height="40" />  <img src="https://github.com/github/explore/raw/master/topics/bootstrap/bootstrap.png" width="40" height="40" />  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40" height="40" />  <img src="https://github.com/github/explore/raw/master/topics/jupyter-notebook/jupyter-notebook.png" width="40" height="40" />  <img src="https://github.com/github/explore/raw/master/topics/opencv/opencv.png" width="60" height="40" />  <img src="https://github.com/github/explore/raw/master/topics/django/django.png" width="60" height="40" /> 
  
-🌱 I’m currently learning Preact.
 
 ##### Languages I know
 
