@@ -1,5 +1,7 @@
 ### Hi there 👋
-###### About Me
+<p align="center" ><img height="350" src="./header.png"></p>
+
+##### About Me
 My name is Shubhanshu Saxena. I'm a developer exploring different technical aspects of Computer Science. I have tried out different technologies ranging from React to ROS. I love the fact that our interests may change overtime, and that's why we get bumped into different things.
 
 ##### Technologies I have used
@@ -19,7 +21,6 @@ My name is Shubhanshu Saxena. I'm a developer exploring different technical aspe
 ##### Get in touch?
 <a href="https://www.linkedin.com/in/shubhanshu-saxena/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a> <a href="https://github.com/shubhanshu02"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>  <a href="mailto:shubhanshu486@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=shubhanshu02.shubhanshu02" align="right" />
-
 
 - ⚡ Fun fact: I'm a table tennis player as well
 <!--
