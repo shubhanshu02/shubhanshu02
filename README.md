@@ -1,5 +1,4 @@
 ### Hi there 👋
-<p align="center" ><img height="350" src="./header.png"></p>
 
 ##### About Me
 My name is Shubhanshu Saxena. I'm a developer exploring different technical aspects of Computer Science. I have tried out different technologies ranging from React to ROS. I love the fact that our interests may change overtime, and that's why we get bumped into different things.
