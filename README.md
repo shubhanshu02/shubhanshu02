@@ -18,7 +18,7 @@ My name is Shubhanshu Saxena. I'm a developer exploring different technical aspe
  width="40" height="40" />  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png" width="40" height="40" />  
 
 ##### Get in touch?
-<a href="https://www.linkedin.com/in/shubhanshu-saxena/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a> <a href="https://github.com/shubhanshu02"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>  <a href="mailto:shubhanshu486@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+<a href="https://www.linkedin.com/in/shubhanshu-saxena/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a> <a href="https://github.com/shubhanshu02"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>  <a href="mailto:shubhanshu486@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>    <a href="https://www.instagram.com/shubhanshu_02"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=shubhanshu02.shubhanshu02" align="right" />
 
 - ⚡ Fun fact: I'm a table tennis player as well
