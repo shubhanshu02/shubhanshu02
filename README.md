@@ -4,13 +4,14 @@
 My name is Shubhanshu Saxena. I'm a developer exploring different technical aspects of Computer Science. I have tried out different technologies ranging from React to ROS. I love the fact that our interests may change overtime, and that's why we get bumped into different things.
 
 ##### Technologies I have used
-<img src="https://github.com/github/explore/raw/master/topics/flutter/flutter.png" width="40" height="40" />  <img src="https://github.com/github/explore/raw/master/topics/bootstrap/bootstrap.png" width="40" height="40" />  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40" height="40" />  <img src="https://github.com/github/explore/raw/master/topics/jupyter-notebook/jupyter-notebook.png" width="40" height="40" />  <img src="https://github.com/github/explore/raw/master/topics/opencv/opencv.png" width="60" height="40" />  <img src="https://github.com/github/explore/raw/master/topics/django/django.png" width="60" height="40" />  <img src="https://github.com/github/explore/raw/master/topics/vue/vue.png" width="40" height="40" /> 
+
+<img src="https://github.com/github/explore/raw/main/topics/flutter/flutter.png" width="40" height="40" /> <img src="https://github.com/github/explore/raw/main/topics/bootstrap/bootstrap.png" width="40" height="40" /> <img src="https://github.com/github/explore/raw/main/topics/react/react.png" width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/jupyter-notebook/jupyter-notebook.png" width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/opencv/opencv.png" width="60" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/django/django.png" width="60" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/vue/vue.png" width="40" height="40" /> 
  
 
 ##### Languages I know
 
-<img src="https://github.com/github/explore/raw/master/topics/c/c.png" width="40" height="40" />  <img src="https://github.com/github/explore/raw/master/topics/cpp/cpp.png"
- width="40" height="40" />  <img src="https://github.com/github/explore/raw/master/topics/dart/dart.png"
+<img src="https://github.com/github/explore/raw/main/topics/c/c.png" width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/cpp/cpp.png"
+ width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/dart/dart.png"
  width="40" height="40" />  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
  width="40" height="40" />  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
  width="40" height="40" />  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
