@@ -3,10 +3,14 @@
 ##### About Me
 My name is Shubhanshu Saxena. I'm a developer exploring different technical aspects of Computer Science. I have tried out different technologies ranging from React to ROS. I love the fact that our interests may change overtime, and that's why we get bumped into different things.
 
+##### Current Endeavours
+
+- Google Summer of Code'21 Project with Intel Video and Audio for Linux
+- Explore algorithms for boosting performance in my projects
+
 ##### Technologies I have used
 
-<img src="https://github.com/github/explore/raw/main/topics/flutter/flutter.png" width="40" height="40" /> <img src="https://github.com/github/explore/raw/main/topics/bootstrap/bootstrap.png" width="40" height="40" /> <img src="https://github.com/github/explore/raw/main/topics/react/react.png" width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/jupyter-notebook/jupyter-notebook.png" width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/opencv/opencv.png" width="60" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/django/django.png" width="60" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/vue/vue.png" width="40" height="40" /> 
- 
+<img src="https://github.com/github/explore/raw/main/topics/flutter/flutter.png" width="40" height="40" /> <img src="https://github.com/github/explore/raw/main/topics/bootstrap/bootstrap.png" width="40" height="40" /> <img src="https://github.com/github/explore/raw/main/topics/react/react.png" width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/jupyter-notebook/jupyter-notebook.png" width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/opencv/opencv.png" width="60" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/django/django.png" width="60" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/vue/vue.png" width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/tensorflow/tensorflow.png" width="40" height="40" />
 
 ##### Languages I know
 
