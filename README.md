@@ -5,8 +5,12 @@ My name is Shubhanshu Saxena. I'm a developer exploring different technical aspe
 
 ##### Current Endeavours
 
-- Google Summer of Code'21 Project with Intel Video and Audio for Linux
 - Explore algorithms for boosting performance in my projects
+
+##### Past Events
+
+- Google Summer of Code'21 Project with Intel Video and Audio for Linux
+- Participated in HackZurich 2021
 
 ##### Technologies I have used
 
