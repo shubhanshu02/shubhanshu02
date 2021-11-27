@@ -14,7 +14,7 @@ My name is Shubhanshu Saxena. I'm a developer exploring different technical aspe
 
 ##### Technologies I have used
 
-<img src="https://github.com/github/explore/raw/main/topics/flutter/flutter.png" width="40" height="40" /> <img src="https://github.com/github/explore/raw/main/topics/bootstrap/bootstrap.png" width="40" height="40" /> <img src="https://github.com/github/explore/raw/main/topics/react/react.png" width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/jupyter-notebook/jupyter-notebook.png" width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/opencv/opencv.png" width="60" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/django/django.png" width="60" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/vue/vue.png" width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/tensorflow/tensorflow.png" width="40" height="40" />
+<img src="https://github.com/github/explore/raw/main/topics/flutter/flutter.png" width="40" height="40" /> <img src="https://github.com/github/explore/raw/main/topics/bootstrap/bootstrap.png" width="40" height="40" /> <img src="https://github.com/github/explore/raw/main/topics/react/react.png" width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/jupyter-notebook/jupyter-notebook.png" width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/opencv/opencv.png" width="60" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/django/django.png" width="60" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/vue/vue.png" width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/tensorflow/tensorflow.png" width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/spring/spring.png" width="40" height="40" />
 
 ##### Languages I know
 
@@ -24,7 +24,7 @@ My name is Shubhanshu Saxena. I'm a developer exploring different technical aspe
  width="40" height="40" />  <img src="https://github.com/github/explore/raw/main/topics/typescript/typescript.png" width="40" height="40" />  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
  width="40" height="40" />  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
  width="40" height="40" />  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"
- width="40" height="40" />
+ width="40" height="40" />  <img src="https://github.com/github/explore/blob/main/topics/java/java.png?raw=true" width="40" height="40" />
 
 ##### Get in touch?
 <a href="https://www.linkedin.com/in/shubhanshu-saxena/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a> <a href="https://github.com/shubhanshu02"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>  <a href="mailto:shubhanshu486@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>    <a href="https://www.instagram.com/shubhanshu_02"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
